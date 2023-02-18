@@ -3,6 +3,9 @@ DOMAIN-SUFFIX,hive.blog
 DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,good.news
 DOMAIN-SUFFIX,bad.news
-DOMAIN-SUFFIX,discord.gg
-DOMAIN-SUFFIX,discord.media
+
+# > imtoken
+DOMAIN-SUFFIX,token.im
+DOMAIN-SUFFIX,tokenlon.im
+DOMAIN-SUFFIX,improd.works
 
